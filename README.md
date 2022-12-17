@@ -1,1 +1,2 @@
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![original_026fc0b61e323aff95685b0331d518da](https://user-images.githubusercontent.com/93484868/208260993-809bd1d7-a48a-4f42-a29a-590675d8a2b8.gif)
